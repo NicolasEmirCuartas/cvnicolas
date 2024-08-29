@@ -58,7 +58,7 @@ h1, h2, h3, p {
 }
 
 /* Media Queries para dispositivos móviles */
-@media (max-width: 768px) {
+@media (max-width: 500px) {
     .boton {
         width: 100%;
         height: auto;
