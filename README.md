@@ -1,2 +1,0 @@
-# cvnicolas
-cv
